@@ -5,14 +5,13 @@
   colored = format:%Cred%h%Creset %s %Cgreen(%cr) %C(bold blue)%an%Creset
 
 [user]
-  name = Justin Kenyon
-  email = kenyonj@gmail.com
+  name = Adam Patterson
+  email = adam.patterson0012@gmail.com
 
 [github]
-  user = kenyonj
-
-[company]
-  domain = thoughtbot.com
+  user = atom1262
 
 [fetch]
   prune = true
+[company]
+  domain = apatterson.me
